@@ -1,4 +1,4 @@
-package logical_program;
+package Basic_Logical_Program;
 
 public class count_even_odd_digits {
 
